@@ -28,11 +28,10 @@
 
 ## 💡简介
 
-<p align="center"><a href="https://mp.weixin.qq.com/s/JbD05YUlQ7NvSCsPJTm5nQ" target="_blank"><strong>Topbook:</strong> 不用花钱，三步投屏手机到任何电脑系统，支持高帧率录屏、电脑控制手机。</a></p>
+<p align="center"><a href="https://jq.qq.com/?_wv=1027&k=5jxRe2o" target="_blank">点击链接加入QQ群聊【Scrcpy-GUI】</a></p><p align="center"><a href="https://mp.weixin.qq.com/s/JbD05YUlQ7NvSCsPJTm5nQ" target="_blank"><strong>Topbook:</strong> 不用花钱，三步投屏手机到任何电脑系统，支持高帧率录屏、电脑控制手机。</a></p>
 <p align="right"> 感谢 Topbook 平台的分享!</p>
 <div align=center><img width="508" height="785.6" src="https://cdn.jsdelivr.net/gh/Tomotoes/images/scrcpy-gui/Chinese.gif"/></div>
 <div align=center><img src="./screenshot.gif"/></div>
-
 
 [Scrcpy](https://github.com/Genymobile/scrcpy) 是由流行的`Android`模拟器`Genymotion`背后的团队创建的，但它本身并不是`Android`模拟器，它显示和控制通过`USB`（或通过`TCP/IP`）连接的`Android`设备，它不需要任何`root`访问权限，它适用于`GNU/Linux`、`Windows`和`MacOS`。
 
@@ -225,15 +224,6 @@ npm run build
 npm run lint
 ```
 
-
-
-## 🤞贡献者
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Tomotoes"><img src="https://avatars1.githubusercontent.com/u/32236122?s=460&v=4" width="100px;" alt="Tomotoes"/><br /><sub><b>Simon Ma</b></sub></a><br /><a href="https://github.com/Tomotoes/scrcpy-gui/commits?author=Tomotoes" title="Code">💻</a> <a href="https://tomotoes.com">🎨</a></td>
-  </tr>
-</table>
 
 
 
